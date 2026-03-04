@@ -16,7 +16,7 @@ git status
 ```bash
 git add .
 git commit -m "first commit"
-
+```
 ## Link хийх
 [Датс вэб сайт руу шилжих](http://stda.edu.mn/)
 ## Зураг оруулах
