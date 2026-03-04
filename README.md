@@ -19,9 +19,9 @@ git commit -m "first commit"
 
 ## Link хийх
 [Датс вэб сайт руу шилжих](http://stda.edu.mn/)
-## Зураг оруулах
+Зураг оруулах
 [!Project Screenshot](images/screenshot.png)
-## Хүснэгт
+Хүснэгт
 | нэр |нас|мэргэжил|
 |.....|...|........|
 |Бат  |20 |IT      |
